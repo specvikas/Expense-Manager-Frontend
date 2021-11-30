@@ -1,0 +1,30 @@
+.logout-btn {
+    display: flex;
+    justify-content: right;
+}
+
+.logout-btn > button {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    width: 15%;
+    height: 50px;
+    border-radius: 25px;
+    background: #e6582d;
+    padding: 0 25px;
+    transition: all .4s;
+    margin: 0 0 2rem 0;
+}
+
+.logout-btn > h2 {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+    font-weight: bold;
+    color: #fff;
+    margin-right: 1rem;
+}
